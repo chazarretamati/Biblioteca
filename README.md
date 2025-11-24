@@ -9,14 +9,8 @@ El objetivo es desarrollar un programa en Java (modo consola) que modele la gest
 
 El sistema permite administrar libros y usuarios de una biblioteca, pudiendo realizar las siguientes operaciones:
 
-<<<<<<< HEAD
-- Agregar nuevos libros   
-- Listar todos los libros disponibles  
-- Buscar libros por título
-=======
 - Agregar nuevos libros  
 - Listar todos los libros disponibles    
->>>>>>> rama-nicolas
 - Eliminar o modificar libros  
 - Mostrar los libros actualmente prestados  
 - Editar la información de un libro existente, con manejo de excepciones personalizadas

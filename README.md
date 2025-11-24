@@ -48,6 +48,4 @@ Biblioteca/
 ---
 ## **Cosas a Agregar o Faltantes**
 
-+La idea sería que en "Data" haya unos libros cargados así podemos visualizar ya una lista pre cargada con stock y poder aumentar o disminuir ese stock.
-
-+Agregar exepciones en caso de cualquier error.
++ Sin nada que agregar
